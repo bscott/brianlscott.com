@@ -1,0 +1,16 @@
+baseURL = 'https://brianlscott.com/'
+languageCode = 'en-us'
+title = 'Brian Scott'
+theme = "hyde"
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/bscott/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/brianlscott/"},
+      {Name = "Bluesky", URL = "https://bsky.app/profile/brianlscott.com"},
+        {Name = "Resume", URL = "https://brianlscott.com/resume/"},
+]
+[params]
+  description = "Father, Leader, TechExec, Inventor, Technologist & Writer."
+  themeColor = "theme-base-0f"
+  layoutReverse = true
+  disqusShortname = "bscott"
